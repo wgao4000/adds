@@ -1,0 +1,40 @@
+h1,.integ,.result{
+	text-align:center;
+	font-family:times,Times New Roman,times-roman,georgia,serif;
+}
+.result{
+	margin-top:1em;
+	font-size:24px;
+	letter-spacing:2px;
+}
+hr{
+	margin:7em 0 2em;
+}
+label{
+	padding:6px;
+	font-size:18px;
+	font-family:times,Times New Roman,times-roman,georgia,serif;
+}
+input{
+	margin-bottom:1.5em;
+	border-radius:2px;
+	width:20%;
+	background-color:#d1d1d1;
+}
+label,input{
+    height:2em;
+}
+button{
+	font-size:20px;
+	width:3%;
+	height:auto;
+	padding:5px;
+	margin:20px 10px 10px;
+	background-color:lightgreen;
+}
+body{
+	background-color:lightblue;
+}
+hr.foo1{
+	margin-bottom:7em;
+}
